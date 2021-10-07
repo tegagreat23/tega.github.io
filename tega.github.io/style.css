@@ -1,0 +1,20 @@
+body{
+    background-image: url(greg.jpg);
+background-size: 800px;
+}
+img{
+    border: 2px solid rgb(45, 130, 156);
+    box-shadow:4px 4px 5px rgb(82, 50, 168);
+    transition: all  1s;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
+h3{
+    display: inline-block;
+    margin: 10px;
+    border: 2px solid gray;
+    border-radius: 50%;
+   background-color: dodgerblue;
+}

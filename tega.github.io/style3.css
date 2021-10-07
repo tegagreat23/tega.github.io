@@ -1,0 +1,16 @@
+
+ h1  { border: 2px solid gray;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+ background-color: lightgrey;
+}
+
+body{
+
+    background-size: 1000px;
+    background-image: url(house.jpg)
+
+}
+
